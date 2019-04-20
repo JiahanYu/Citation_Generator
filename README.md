@@ -78,4 +78,4 @@ Find the dmg for Mac in Realeases Tag or Click [here](https://github.com/max-yea
 <br>
 
 ## Other Contributors
-Min Tian, Yu Jiahan
+Min Tian, Ye Haolin
